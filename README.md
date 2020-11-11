@@ -21,7 +21,7 @@
 - 🌱 I’m currently focusing on **Backend development**
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for help with **Internships**
-- 💬 Ask me about Anything [here](https://github.com/yashi12/yashi12/issues/1)! I am happy to help.
+- 💬 Ask me about Anything [here](https://github.com/yashi12/yashi12/issues/2)! I am happy to help.
 - ⚡ Fun fact: **Results motivate u to work even Harder**
 
 <br/>
