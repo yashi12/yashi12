@@ -21,20 +21,20 @@
 - 🌱 I’m currently focusing on **Backend development**
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for help with **Internships**
-- 💬 Ask me about Anything [here](https://github.com/yashi12/yashi12/issues/1)! I am happy to help.
+- 💬 Ask me about Anything [here](https://github.com/yashi12/yashi12/issues/2)! I am happy to help.
 - ⚡ Fun fact: **Results motivate u to work even Harder**
 
 <br/>
 <br/>
 <br/>
-
+<br/>
 <p align="center">
   <img src="https://gpvc.arturio.dev/yashi12" alt="profile views"> •  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/yashi12?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/yashi12?label=Stars" alt="Total Stars">
 </p>
 <p align="center">
-  <img src="https://gitwar-jayant.herokuapp.com/badge?username=yashi12&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57">
+  <img src="https://gitwar.herokuapp.com/badge?username=yashi12&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57">
 </p>
 
 <br/>
