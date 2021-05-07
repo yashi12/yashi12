@@ -91,7 +91,7 @@
     <img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/linkedin.svg"/>
   </a>
   <a href=https://twitter.com/YashiAg09717844?s=08" target="_blank">
-    <img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/twitter.png"/>
+    <img height="60" width="60" src="https://s3-eu-west-1.amazonaws.com/dmi-studentportal-uploads/v3blog/twitter_logo_blue.png"/>
   </a>
 </p>
 <br/>
@@ -99,6 +99,5 @@
 #
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
 
 </div>
