@@ -17,8 +17,9 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Web Development (MERN)stack **
 - 🌱 I’m currently focusing on **Backend development**
+- 🌱 I’m currently learning **Cloud Computing**
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for help with **Internships**
 - ⚡ Fun fact: **Results motivate u to work even Harder**
