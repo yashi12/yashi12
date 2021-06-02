@@ -90,7 +90,7 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/yashi-agarwal-0459b2191/" target="_blank">
-    <img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/linkedin.svg"/>
+    <img height="60" width="60" src="https://w7.pngwing.com/pngs/602/665/png-transparent-in-icon-social-media-linkedin-computer-icons-linkedin-blue-text-trademark-thumbnail.png"/>
   </a>
   <a href=https://twitter.com/YashiAg09717844?s=08" target="_blank">
     <img height="60" width="60" src="https://s3-eu-west-1.amazonaws.com/dmi-studentportal-uploads/v3blog/twitter_logo_blue.png"/>
